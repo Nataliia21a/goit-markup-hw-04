@@ -353,17 +353,9 @@ h1 {
   justify-content: center;
 }
 
-.icons-sociall {
-  width: 40px;
-  height: 40px;
-}
-
 .icons-social {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
-  background-color: #4d5ae5;
-  padding: 12px;
 }
 
 .icons-social:hover {
